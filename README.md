@@ -12,8 +12,10 @@ Partner it with Alphalaneous' [Minecraftify!](https://geode-sdk.org/mods/zalphal
 ![Screenshot_20241127-182033](https://github.com/user-attachments/assets/e3f5f442-5827-4b09-a516-e65707f9c024)
 ![Screenshot_20241127-182053](https://github.com/user-attachments/assets/bd89859d-d155-4320-8a00-a8de910fee7a)
 
+> [!NOTE]
+> Test this TP first to see if it will fit for your device before requesting some issues later.
 
-This is the second installment of my font pack that i have to steal from someone's mods but i will credit it here anyways for your convenience.
+`PS: This is the second installment of my font pack that i have to steal from someone's mods but i will credit it here anyways for your convenience.`
 
 # Credits:
 
